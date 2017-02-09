@@ -2,7 +2,7 @@
 # CST 205 T/Th 10-12
 # Project 1
 # Purpose: Create a new image from a set of 9, and remove extraneous pixels (such as a pedestrian)
-# Github link: https://github.com/DrDoctor299/Project-1---CST-205
+# Github link: https://github.com/DrDoctor299/Project-One.git
 
 #Import Pillow
 
